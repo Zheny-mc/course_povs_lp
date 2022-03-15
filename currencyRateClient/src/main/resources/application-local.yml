@@ -1,0 +1,8 @@
+cbr-rate-client:
+  url: "http://localhost:8081/"
+
+cbr-rate-client-all:
+  url: "http://localhost:8081/all"
+
+
+
